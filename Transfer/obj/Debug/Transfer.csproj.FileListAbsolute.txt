@@ -1,0 +1,8 @@
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\obj\Debug\Transfer.csproj.CopyComplete
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\bin\Debug\Transfer.csr.dll
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\bin\Debug\Transfer.csr.pdb
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\obj\Debug\Transfer.csr.dll
+C:\Users\tangs\OneDrive\Desktop\Transfer\Transfer\obj\Debug\Transfer.csr.pdb
